@@ -471,6 +471,8 @@ dm.wo.com.cn
 ! checkin.gstatic.com
 ! 115网盘版本更新
 ||down.115.com^
+! 115网盘TV端版本更新
+||appversion.115.com^
 ! 腾讯移动终端sdk、第三方登录、网页登陆! 按需屏蔽
 ! cgi.connect.qq.com
 ! 酷安
