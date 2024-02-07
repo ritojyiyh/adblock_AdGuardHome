@@ -705,6 +705,8 @@ dm.wo.com.cn
 ||open-ad.vivo.com.cn^
 ||stappupgrade.vivo.com.cn^
 ||vcode-od.vivo.com.cn^
+! 应用程序更新相关
+||appupgrade.vivo.com.cn^
 ! 客厅长虹电视
 ||chsmarttv.com^
 ||monitor.ads^
@@ -743,6 +745,12 @@ dm.wo.com.cn
 ! 中国移动智慧家庭智能组网相关
 ||jtwlgl.hn.chinamobile.com^
 ||ifa.ihnm.chinamobile.com^
+||config.rcs.chinamobile.com^
+! 疑似
+||dmzzh01.hbq.r.10086.cn^
+||sipzzh16.hbq.r.10086.cn^
+||sipzzh16.hbq.r.10086.cn^
+||_sips._tcp.sipzzh16.hbq.r.10086.cn^
 ! 腾讯视频TV端(云视听极光
 ||sdk-e.play.aiseet.atianqi.com^
 ||vv.play.aiseet.atianqi.com^
@@ -758,3 +766,5 @@ dm.wo.com.cn
 ||*httpdns*huawei*$important
 ||又拍云CDN
 ||httpdns.upyun.com^
+! 疑似阿里昆仑用户诊断工具
+||pss.alicdn.com^
