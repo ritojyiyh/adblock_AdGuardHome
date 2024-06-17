@@ -772,3 +772,9 @@ dm.wo.com.cn
 ||pss.alicdn.com^
 ! 星域CND(网心云
 ||xycdn.com^
+! PT站hdvideo相关
+@@||hdvideo.one^
+@@||cloudflare.com^
+@@||a.nel.cloudflare.com^
+@@||creditracker.net^
+@@||168.6.168.192.in-addr.arpa^
