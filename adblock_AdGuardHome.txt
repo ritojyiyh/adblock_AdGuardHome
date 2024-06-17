@@ -779,3 +779,9 @@ dm.wo.com.cn
 @@||creditracker.net^
 @@||168.6.168.192.in-addr.arpa^
 ||7k7k.com^
+!直播网站PCDN
+||mcdn.bilivideo.cn^
+||szbdyd.com^
+||hw.p2p.huya.com^
+||p2p.huya.com^
+||*va.huya.com^
