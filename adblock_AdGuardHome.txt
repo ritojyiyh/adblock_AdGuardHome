@@ -662,9 +662,6 @@ dm.wo.com.cn
 ||sf0.market.xiaomi.com^
 ! 未知具体功能
 ||adsdkapi.dxys.pro^
-! 虎牙直播p2p
-||p2p.huya.com^
-||hw.p2p.huya.com^
 ! 阿里云系列盒子
 ||adash.m.taobao.com^
 ||tvupgrade.yunos.com^
@@ -732,8 +729,6 @@ dm.wo.com.cn
 ! 疑似播放前广告
 ||valipl.cp31.ott.cibntv.net^
 ||pl.cp31.ott.cibntv.net^
-! 哔哩哔哩Mcdn
-||mcdn.bilivideo.cn^
 ! 芒果TV-TV端
 ||ottupdate.api.mgtv.com^
 ||ottupdate2.api.mgtv.com^
@@ -779,10 +774,18 @@ dm.wo.com.cn
 @@||creditracker.net^
 @@||168.6.168.192.in-addr.arpa^
 ||7k7k.com^
-!直播网站PCDN
+! 视频网站、直播网站PCDN
+! 哔哩哔哩Mcdn
 ||mcdn.bilivideo.cn^
 ||szbdyd.com^
-||hw.p2p.huya.com^
+! 虎牙直播p2p
 ||p2p.huya.com^
-||*va.huya.com^
-2
+||hw.p2p.huya.com^
+||va.huya.com^
+||statwup.huya.com^
+! 斗鱼直播p2p
+! QQ音乐PCDN
+||tp2p.kg.qq.com^
+||twns.p2ptun.qq.com^
+||musicps.p2p.qq.com^
+||musicpunch.p2p.qq.com^
