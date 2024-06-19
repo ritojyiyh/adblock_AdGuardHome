@@ -2,7 +2,4 @@
 @@||cpats01.115.com^
 ! PT站hdvideo相关
 @@||hdvideo.one^
-@@||cloudflare.com^
-@@||a.nel.cloudflare.com^
 @@||creditracker.net^
-@@||168.6.168.192.in-addr.arpa^
