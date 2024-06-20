@@ -772,10 +772,8 @@ dm.wo.com.cn
 ||xycdn.com^
 ! PT站hdvideo相关
 @@||hdvideo.one^
-@@||cloudflare.com^
-@@||a.nel.cloudflare.com^
 @@||creditracker.net^
-@@||168.6.168.192.in-addr.arpa^
+! @@||168.6.168.192.in-addr.arpa^
 ||7k7k.com^
 ! 视频网站、直播网站PCDN
 ! 哔哩哔哩Mcdn
