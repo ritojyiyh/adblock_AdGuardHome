@@ -204,8 +204,7 @@ pushservice.10010.com^
 ||sms.ads.heytapmobi.com^
 ! 真我Realme手机便签相关
 ||note-skin.coloros.com^
-! 讯飞输入法
-! 直接屏蔽一级域名就好了————————
+! 讯飞输入法(输入法不联网)
 ||xfinfr.com^
 ||voicecloud.cn^
 ! 讯飞语音相关
@@ -227,7 +226,6 @@ pushservice.10010.com^
 ||uve.weibo.com^
 ||adimg.uve.weibo.com^
 ! 新浪微博广告(developers.biz.weibo.com)
-! 直接屏蔽一级域名就好了————————
 ||wbapp.mobile.sina.cn^
 ||biz.weibo.com^
 ||wbapp.mobile.sina.cn^
@@ -254,13 +252,11 @@ pushservice.10010.com^
 ||update.pan.n.shifen.com^
 ||update.pan.baidu.com^
 ! 百度网盘P2P加速
-! 直接屏蔽二级域名就好了————————
 ||bcsp2p.baidu.com^
 ||bcsp2p.n.shifen.com^
 ! 百度广告-竞价推广
 ||ada.baidu.com^
-! 乐播投屏广告-可能和网盘类APP的视频播放的投屏有关
-! 直接屏蔽一级域名就好了————————
+! 乐播投屏广告-可能和网盘类APP的视频播放的投屏有关-待测试
 ! hpplay.cn
 ||rps.hpplay.cn^
 ||gslb.hpplay.cn^
@@ -269,7 +265,6 @@ pushservice.10010.com^
 ||rp.hpplay.cn^
 ||ssdkauth.hpplay.cn^
 ! 蜻蜓FM
-! 直接屏蔽二级域名就好了————————
 ! z.qingting.fm
 
 ||abtest.z.qingting.fm^
@@ -279,7 +274,7 @@ pushservice.10010.com^
 ! 广告-AdScope
 ||beizi.biz^
 ! 360相关
-! 如果不用360的任何东西可以直接屏蔽掉360的一级域名就好了————————
+! 如果不用360的任何东西直接屏蔽掉360的一级域名
 ||360.cn^
 ||360mon.cn^
 ! QQ音乐广告
@@ -338,7 +333,6 @@ pushservice.10010.com^
 ! 抖音-疑似更新检测
 ||lf.snssdk.com^
 ! 百度贴吧
-! 直接屏蔽一级域名就好了————————
 ||fenxi.com^
 ||nzwgs.com^
 ||ap.livemediav.com^
@@ -367,9 +361,8 @@ pushservice.10010.com^
 ||wcp.taobao.com^
 ! 淘宝频繁验证
 ||bixi.alicdn.com^
-! X浏览器! 按需屏蔽
+! X浏览器(不与X浏览器的服务器通信)按需屏蔽
 ||srvcn.xbext.com^
-! 直接屏蔽这个一级域名就好了
 ! xbext.com
 ! 摸鱼Kik
 ||cfg.imtt.qq.com^
@@ -398,8 +391,9 @@ pushservice.10010.com^
 ||unipayupg.wostore.cn^
 ! 中国电信
 ||id6.me
-! 可以直接一级域名e.189.cn
-! open.e.189.cn^
+! 可以直接一级域名(按需)e.189.cn
+! e.189.cn^
+#! open.e.189.cn^
 ! 中国广电
 ||Idk.^
 ! 网易易盾号码认证
@@ -504,7 +498,6 @@ dm.wo.com.cn
 ||volccdn.com^
 ||lsttnews.com^
 ! 尚网广告
-! 直接屏蔽一级域名就好了————————
 ! ctobsnssdk.com
 
 ||readfile.wifi.com^
@@ -619,7 +612,6 @@ dm.wo.com.cn
 ! httpcanary小黄鸟抓包(破解版的可以直接屏蔽)
 ||reqable.com^
 ! 摩托范
-! 直接屏蔽二级域名就好了————————
 ||adkwai.com^
 ||x.jd.com^
 ||xlog.jd.com^
@@ -652,9 +644,7 @@ dm.wo.com.cn
 ||audid-api.taobao.com^
 ||vali-g1.cp31.ott.cibntv.net^
 ||yk-ssp.ad.youku.com^
-! AppShare-手机软件更新内容服务————
 ! 美团相关
-! 直接屏蔽一级域名就好了————————
 ||dxys.pro^
 ||p0.meituan.net^
 ||p1.meituan.net^
@@ -765,7 +755,7 @@ dm.wo.com.cn
 ||httpdns.upyun.com^
 ! 疑似阿里昆仑用户诊断工具
 ||pss.alicdn.com^
-! 星域CND(网心云
+! 星域CND(网心云)
 ||xycdn.com^
 ! PT站hdvideo相关
 @@||hdvideo.one^
@@ -789,3 +779,32 @@ dm.wo.com.cn
 ||twns.p2ptun.qq.com^
 ||musicps.p2p.qq.com^
 ||musicpunch.p2p.qq.com^
+! FFRenamePro霏霏更名助手检查更新
+||ffhome.com^
+! 屏蔽音速启动的联网
+||tj5.3lsoft.com^
+||down.3lsoft.com^
+||statistics.guangsu.cn^
+||ud5.3lsoft.com^
+||tj5.3lsoft.com^
+! 115电脑版检查更新
+||appversion.115.com^
+! 打开浏览器Google检查相关
+||update.googleapis.com^
+! 屏蔽fiddler抓包软件，防止检查更新
+||fiddler2.com^
+||potplayertv.daum.net^
+||play.kakao.com^
+||t1.daumcdn.net^
+||p1-play.edge4k.com^
+||p2-play.edge4k.com^
+! 猫眼catsxp浏览器检测更新
+||go-updater.catsxp.com^
+||updater.catsxp.com^
+||catsxp.oss-cn-hongkong.aliyuncs.com^
+! 指定115网盘下载服务器IP
+119.167.136.55 cdnfhnfile.115.com
+! 指定115网盘上传服务器IP
+157.255.170.205 fhnfile.oss-cn-shenzhen.aliyuncs.com
+! 指定魅族手机官网刷机包IP
+116.177.239.35 firmware-res.flyme.com
