@@ -142,12 +142,12 @@
 ! 阿里云无痕验证
 ||cf.aliyun.com^
 ! 阿里WAF云盾
-||yundunwaf.com^
-||yundunwaf1.com^
-||yundunwaf2.com^
-||yundunwaf3.com^
-||yundunwaf4.com^
-||yundunwaf5.com^
+! ||yundunwaf.com^
+! ||yundunwaf1.com^
+! ||yundunwaf2.com^
+! ||yundunwaf3.com^
+! ||yundunwaf4.com^
+! ||yundunwaf5.com^
 ! 中国联通-信息获取上报
 pushservice.10010.com^
 ! 阿里云内置域名解析服务
