@@ -72,6 +72,8 @@
 ||mdt.qq.com^
 ||trace.qq.com^
 ||beacon.qq.com^
+! Flurry-用户行为分析隐私上报
+||flurry.com^
 ! 如果要用QQ超级萌宠签到需要解除这条
 ! oth.eve.mdt.qq.com
 ! 今日头条Datarangers-用户行为分析隐私上报、火山引擎
@@ -100,7 +102,9 @@
 ||umengacs.m.taobao.com^
 ||umengjmacs.m.taobao.com^
 ||alog.umengcloud.com.gds.alibabadns.com^
-! 个推-用户行为分析隐私上报-隐私上报
+! CNZZ统计-用户行为分析隐私上报
+||cnzz.com^
+! 个推-用户行为分析隐私上报
 ||getui.com^
 ||igetui.com^
 ||gepush.com^
@@ -135,6 +139,8 @@
 ||usp1.baidu.com^
 ! 阿里云-用户行为分析隐私上报
 ||adash.man.aliyuncs.com^
+! 阿里云无痕验证
+||cf.aliyun.com^
 ! 中国联通-信息获取上报
 pushservice.10010.com^
 ! 阿里云内置域名解析服务
@@ -204,7 +210,7 @@ pushservice.10010.com^
 ||sms.ads.heytapmobi.com^
 ! 真我Realme手机便签相关
 ||note-skin.coloros.com^
-! 讯飞输入法(输入法不联网)
+! 讯飞输入法(屏蔽输入法联网)
 ||xfinfr.com^
 ||voicecloud.cn^
 ! 讯飞语音相关
@@ -781,7 +787,7 @@ dm.wo.com.cn
 ||musicpunch.p2p.qq.com^
 ! FFRenamePro霏霏更名助手检查更新
 ||ffhome.com^
-! 屏蔽音速启动的联网
+! 屏蔽音速启动联网
 ||tj5.3lsoft.com^
 ||down.3lsoft.com^
 ||statistics.guangsu.cn^
@@ -808,3 +814,13 @@ dm.wo.com.cn
 157.255.170.205 fhnfile.oss-cn-shenzhen.aliyuncs.com
 ! 指定魅族手机官网刷机包IP
 116.177.239.35 firmware-res.flyme.com
+! 疑似123云盘检查更新相关
+||metrics-collector.xaidc.com^
+! 123云盘检查更新下载
+||app.123pan.com^
+! 123云盘取消更新后连接的域名
+||sentry.123pan.com^
+! 屏蔽人人译视界联网
+||1sj.tv^
+! IObit系列软件检测更新
+||update.iobit.com^
