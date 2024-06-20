@@ -141,6 +141,13 @@
 ||adash.man.aliyuncs.com^
 ! 阿里云无痕验证
 ||cf.aliyun.com^
+! 阿里WAF云盾
+||yundunwaf.com^
+||yundunwaf1.com^
+||yundunwaf2.com^
+||yundunwaf3.com^
+||yundunwaf4.com^
+||yundunwaf5.com^
 ! 中国联通-信息获取上报
 pushservice.10010.com^
 ! 阿里云内置域名解析服务
@@ -399,13 +406,13 @@ pushservice.10010.com^
 ||id6.me
 ! 可以直接一级域名(按需)e.189.cn
 ! e.189.cn^
-#! open.e.189.cn^
+||open.e.189.cn^
 ! 中国广电
 ||Idk.^
 ! 网易易盾号码认证
 ||ye.dun.163yun.com^
 ! 网易易盾(屏蔽后应用闪退)
-ac.dun.163yun.com
+||ac.dun.163yun.com^
 ! 网易云音乐
 ||netapm.music.163.com^
 ||mam.netease.com^
