@@ -4,4 +4,4 @@
 @@||hdvideo.one^
 @@||creditracker.net^
 ! 钉钉
-@@||dingtalk.com^
+@@||*dingtalk.com^
