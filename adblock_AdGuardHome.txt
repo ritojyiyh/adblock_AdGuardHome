@@ -830,3 +830,5 @@ dm.wo.com.cn
 ||1sj.tv^
 ! IObit系列软件检测更新
 ||update.iobit.com^
+! 屏蔽小米手机联网
+||connect.rom.miui.com^
