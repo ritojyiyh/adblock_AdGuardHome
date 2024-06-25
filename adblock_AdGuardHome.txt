@@ -815,11 +815,11 @@ dm.wo.com.cn
 ||updater.catsxp.com^
 ||catsxp.oss-cn-hongkong.aliyuncs.com^
 ! 指定115网盘下载服务器IP
-119.167.136.55 cdnfhnfile.115.com
+! 119.167.136.55 cdnfhnfile.115.com
 ! 指定115网盘上传服务器IP
-157.255.170.205 fhnfile.oss-cn-shenzhen.aliyuncs.com
+! 157.255.170.205 fhnfile.oss-cn-shenzhen.aliyuncs.com
 ! 指定魅族手机官网刷机包IP
-116.177.239.35 firmware-res.flyme.com
+! 116.177.239.35 firmware-res.flyme.com
 ! 疑似123云盘检查更新相关
 ||metrics-collector.xaidc.com^
 ! 123云盘检查更新下载
