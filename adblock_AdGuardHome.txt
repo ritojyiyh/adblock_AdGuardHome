@@ -844,6 +844,7 @@ dm.wo.com.cn
 ||apisnd.heytapmobi.com^
 ||esa-reg.myoppo.com^
 ||httpdns.push.heytapmobi.com^
+||ota-recruit-cn.allawntech.com^
 ||obus-dc20123-cn.heytapmobi.com^
 ! 文件管理器
 ||traffic-operation-cn.allawntech.com^
