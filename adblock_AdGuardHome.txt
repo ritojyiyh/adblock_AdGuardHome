@@ -307,6 +307,7 @@ pushservice.10010.com^
 ||txp2p2.liveplay.egame.qq.com^
 ||dns.weixin.qq.com^
 ||dns.weixin.qq.com.cn^
+||aedns.weixin.qq.com^
 ||||txpcdn.liveplay.egame.qq.com^
 ||flv265-txpcdn.liveplay.egame.qq.com^
 ||flv265-txpcdn-direct.liveplay.egame.qq.com^
@@ -832,3 +833,23 @@ dm.wo.com.cn
 ||update.iobit.com^
 ! 屏蔽小米手机联网
 ||connect.rom.miui.com^
+! OPPO手机通信域名
+||newds-api-cn-01.allawntech.com^
+||conn-service-cn-03.allawntech.com^
+||conn-service-cn-04.allawntech.com^
+||conn-service-cn-05.allawntech.com^
+||conn1.oppomobile.com^
+||adsfs-sdkconfig.heytapimage.com^
+||omes-sec.heytapmobi.com^
+||apisnd.heytapmobi.com^
+||esa-reg.myoppo.com^
+||httpdns.push.heytapmobi.com^
+! 文件管理器
+||traffic-operation-cn.allawntech.com^
+! 相册
+||fourier-videoclip-cn.allawntech.com^
+||proxy-apps-cn.allawntech.com^
+! 中兴路由器联网
+||www.zte.com.cn^
+! 刷流量-网络面板IP检测
+||ipv4.ip.sb^
