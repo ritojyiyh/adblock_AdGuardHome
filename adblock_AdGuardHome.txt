@@ -96,7 +96,6 @@
 ||umeng.co^
 ||umeng.com^
 ||umeng.com.muge.info^
-||gds.alibabadns.com^
 ||umengcloud.com^
 ||umsns.com^
 ||umengacs.m.taobao.com^
