@@ -7,3 +7,15 @@
 @@||dingtalk.com^
 @@||open.dingtalk.com^
 @@||img.alicdn.com^
+! 新浪微博相关
+@@||passport.weibo.com^
+@@||login.sina.com.cn^
+@@||h5.sinaimg.cn^
+! 中国电信189邮箱相关
+@@||open.e.189.cn^
+! 抖音相关
+@@||www.douyin.com^
+! 未知
+@@||lf-cdn-tos.bytescm.com^
+@@||multiapp-cache-weboffice.wpscdn.cn^
+@@||imgs2.58moto.com^
