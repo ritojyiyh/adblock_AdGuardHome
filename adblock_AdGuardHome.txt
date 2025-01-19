@@ -506,7 +506,6 @@ dm.wo.com.cn
 ||wifi188.com^
 ||queniusz.com^
 ||lianwangtech.com^
-||volcgtm.com^
 ||applk.cn^
 ||51y5.net^
 ||volccdn.com^
@@ -779,6 +778,7 @@ dm.wo.com.cn
 ! 视频网站、直播网站PCDN
 ! 哔哩哔哩Mcdn
 ||mcdn.bilivideo.cn^
+||mcdn.bilivideo.com^
 ||szbdyd.com^
 ! 虎牙直播p2p
 ||p2p.huya.com^
@@ -854,3 +854,12 @@ dm.wo.com.cn
 ||www.zte.com.cn^
 ! 刷流量-网络面板IP检测
 ||ipv4.ip.sb^
+!忘了是干什么的了
+||adsfs.heytapimage.com^
+||nosup-hz1.127.net^
+||ads-union.ocs-cn-south1.heytapcs.com^
+||vpp-license-proxy.aliyuncs.com^
+||pkg.58moto.com^
+||abtest.jdd-hub.com^
+||biliapi.net^
+||biliapi.net^
