@@ -854,7 +854,7 @@ dm.wo.com.cn
 ||www.zte.com.cn^
 ! 刷流量-网络面板IP检测
 ||ipv4.ip.sb^
-!忘了是干什么的了
+! 忘了是干什么的了
 ||adsfs.heytapimage.com^
 ||nosup-hz1.127.net^
 ||ads-union.ocs-cn-south1.heytapcs.com^
