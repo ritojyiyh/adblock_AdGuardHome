@@ -502,7 +502,7 @@ dm.wo.com.cn
 ||bytegslb.com^
 ||lsttnews.com^
 ||wifi188.com^
-||queniusz.com^
+! ||queniusz.com^暂时解除
 ||lianwangtech.com^
 ||applk.cn^
 ||51y5.net^
@@ -522,7 +522,6 @@ dm.wo.com.cn
 ||tnc3-aliec2.zijieapi.com.w.kunluncan.com^
 ||ad.zijieapi.com.bytedns1.com^
 ||tnc3-bjlgy.zijieapi.com^
-||vcs.zijieapi.com^
 ||tbm.snssdk.com^
 ||dm-hl.toutiao.com^
 ||abtest-ch.snssdk.com^
@@ -861,5 +860,6 @@ dm.wo.com.cn
 ||abtest.jdd-hub.com^
 ||biliapi.net^
 ||biliapi.net^
-! 网友说是字节跳动相关的日志上报
+! 抖音系产品统计信息相关的日志上报
 ||mcs.zijieapi.com^
+||mon.zijieapi.com^
