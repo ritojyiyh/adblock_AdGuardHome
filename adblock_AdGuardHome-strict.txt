@@ -15,7 +15,11 @@
 @@||open.e.189.cn^
 ! 抖音相关
 @@||www.douyin.com^
+@@||tos-d-x-lf.douyin.com^
+@@||@@||imagex.bytedanceapi.com^
 ! 未知
 @@||lf-cdn-tos.bytescm.com^
 @@||multiapp-cache-weboffice.wpscdn.cn^
 @@||imgs2.58moto.com^
+! 豆包Ai
+@@||mcs.doubao.com^
