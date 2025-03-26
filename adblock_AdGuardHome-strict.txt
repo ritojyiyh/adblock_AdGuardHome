@@ -22,4 +22,4 @@
 @@||multiapp-cache-weboffice.wpscdn.cn^
 @@||imgs2.58moto.com^
 ! 豆包Ai
-@@||mcs.doubao.com^
+@@||www.doubao.com^
