@@ -12,7 +12,7 @@
 ||uczzd.cn^
 ||applog.uc.cn^
 ! 广告-今日头条
-||mcs.snssdk.com^
+! ||mcs.snssdk.com^暂时解除
 ||ctobsnssdk.com^
 ||extlog.snssdk.com^
 ||pangolin-sdk-toutiao1.com^
@@ -163,10 +163,10 @@ pushservice.10010.com^
 ! 真我Realme手机-屏蔽后将无法使用私人DNS
 ! conn5.coloros.com
 ! 真我Realme手机可疑域名-很顽固
-||conn3.coloros.com^
-||conn4.coloros.com^
+! ||conn3.coloros.com^暂时解除-否则可能无法接收软件Plus推送
+! ||conn4.coloros.com^暂时解除-否则可能无法接收软件Plus推送
 ||hcdnw.oppo.zj.cucloud.cncdn.com+^
-||mdp-appconf-cn.heytapdownload.com^
+! ||mdp-appconf-cn.heytapdownload.com^暂时解除
 ||appconf.heytapdownload.com^
 安天移动安全
 ||avlyun.com^
@@ -340,7 +340,7 @@ pushservice.10010.com^
 ||gsp0.baidu.com^
 ! 抖音
 ||mon.snssdk.com^
-||mcs.snssdk.com^
+! ||mcs.snssdk.com^暂时解除
 ||sgali-mcs.byteoversea.com^
 ||maliva-mcs.byteoversea.com^
 ! 抖音-疑似更新检测
@@ -380,7 +380,7 @@ pushservice.10010.com^
 ! 摸鱼Kik
 ||cfg.imtt.qq.com^
 ! 疑似检测版本更新
-||dldir1.qq.com^
+! ||dldir1.qq.com^暂时解除
 ! VMoss虚拟机通信
 ||vproapi.vmos.cn^
 ||mpush-api.aliyun.com^
@@ -459,7 +459,7 @@ dm.wo.com.cn
 ||api.app.m.so.com^
 ||msedl.360safe.com^
 ! 米家
-||cdn.cnbj1.fds.api.mi-img.com^
+! ||cdn.cnbj1.fds.api.mi-img.com^暂时解除
 ||login.sina.com.cn^
 ||graph.facebook.com^
 ! 中石化易捷加油
@@ -494,8 +494,6 @@ dm.wo.com.cn
 ||api.github.com^
 ! WiFi万能钥匙——————
 ! 这段为广告域名不影响使用的可以直接一级域名屏蔽
-||queniurc.com^
-||queniukw.com^
 ||volccdn.com^
 ||dnbuild.net^
 ||queniuyk.com^
@@ -834,9 +832,9 @@ dm.wo.com.cn
 ||connect.rom.miui.com^
 ! OPPO手机通信域名
 ||newds-api-cn-01.allawntech.com^
-||conn-service-cn-03.allawntech.com^
-||conn-service-cn-04.allawntech.com^
-||conn-service-cn-05.allawntech.com^
+! ||conn-service-cn-03.allawntech.com^Android连接性检测 判断WiFi连接质量-#OPPO手机会提示无法联网-已解除
+! ||conn-service-cn-04.allawntech.com^Android连接性检测 判断WiFi连接质量-#OPPO手机会提示无法联网-已解除
+! ||conn-service-cn-05.allawntech.com^Android连接性检测 判断WiFi连接质量-#OPPO手机会提示无法联网-已解除
 ||conn1.oppomobile.com^
 ||adsfs-sdkconfig.heytapimage.com^
 ||omes-sec.heytapmobi.com^
@@ -863,3 +861,5 @@ dm.wo.com.cn
 ||abtest.jdd-hub.com^
 ||biliapi.net^
 ||biliapi.net^
+! 网友说是字节跳动相关的日志上报
+||mcs.zijieapi.com^
