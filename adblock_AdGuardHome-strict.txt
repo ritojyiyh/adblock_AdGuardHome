@@ -23,3 +23,5 @@
 @@||imgs2.58moto.com^
 ! 豆包Ai
 @@||www.doubao.com^
+! 微信相关
+@@||mp.weixin.qq.com^
