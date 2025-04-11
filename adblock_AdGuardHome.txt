@@ -449,6 +449,7 @@ pushservice.10010.com^
 ||tx-p2p-pull.video-voip.com^
 ||tx-p2p-v2.pull.yximgs.com^
 ||ws-p2p-v2.pull.yximgs.com^
+||bd-p2p-v2.pull.yximgs.com^
 ||djvod.ndcimgs.com^
 ! 中国电信分析上报
 ||webwebfenxi.189.cn^
@@ -869,3 +870,5 @@ dm.wo.com.cn
 ||mon.zijieapi.com^
 ! 疑似虎牙直播登录提醒
 ! mdp-appconf-cn.heytapdownload.com
+! 疑似快手APP更新提醒
+! cname.e5product.dnsblock.sundayrx.net
