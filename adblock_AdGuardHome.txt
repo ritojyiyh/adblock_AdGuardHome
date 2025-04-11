@@ -448,7 +448,7 @@ pushservice.10010.com^
 ||tx-p2p.pull.yximgs.com^
 ||tx-p2p-pull.video-voip.com^
 ||tx-p2p-v2.pull.yximgs.com^
-
+||ws-p2p-v2.pull.yximgs.com^
 ! 中国电信分析上报
 ||webwebfenxi.189.cn^
 ||webwebfenxi.189.cn:9000^
@@ -779,6 +779,7 @@ dm.wo.com.cn
 ||mcdn.bilivideo.cn^
 ||mcdn.bilivideo.com^
 ||szbdyd.com^
+||smtcdns.net^
 ! 虎牙直播p2p
 ||p2p.huya.com^
 ||hw.p2p.huya.com^
@@ -865,3 +866,5 @@ dm.wo.com.cn
 ! 抖音系产品统计信息相关的日志上报
 ||mcs.zijieapi.com^
 ||mon.zijieapi.com^
+! 疑似虎牙直播登录提醒
+! mdp-appconf-cn.heytapdownload.com
