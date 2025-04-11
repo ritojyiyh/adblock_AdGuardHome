@@ -447,6 +447,8 @@ pushservice.10010.com^
 ||tx-p2p-pull.live-voip.com^
 ||tx-p2p.pull.yximgs.com^
 ||tx-p2p-pull.video-voip.com^
+||tx-p2p-v2.pull.yximgs.com^
+
 ! 中国电信分析上报
 ||webwebfenxi.189.cn^
 ||webwebfenxi.189.cn:9000^
