@@ -781,7 +781,6 @@ dm.wo.com.cn
 ||mcdn.bilivideo.cn^
 ||mcdn.bilivideo.com^
 ||szbdyd.com^
-||smtcdns.net^
 ! 虎牙直播p2p
 ||p2p.huya.com^
 ||hw.p2p.huya.com^
