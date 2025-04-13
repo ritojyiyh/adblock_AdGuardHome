@@ -25,5 +25,5 @@
 @@||www.doubao.com^
 ! 微信相关
 @@||mp.weixin.qq.com^
-! 疑似B站cdn相关域名，屏蔽后无法获取CDN地址
-! smtcdns.net
+! B站cdn相关域名，屏蔽后无法获取CDN地址
+@@||smtcdns.net^
