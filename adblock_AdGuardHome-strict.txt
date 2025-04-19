@@ -27,3 +27,5 @@
 @@||mp.weixin.qq.com^
 ! B站cdn相关域名，屏蔽后无法获取CDN地址
 @@||smtcdns.net^
+! 腾讯云CDN全站加速服务公用域名
+! cdntips.net
