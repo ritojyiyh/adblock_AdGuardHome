@@ -312,8 +312,6 @@ pushservice.10010.com^
 ||flv265-txpcdn-direct.liveplay.egame.qq.com^
 ||txpcdn-direct.liveplay.egame.qq.com^
 ||txp2p1.liveplay.egame.qq.com^
-! CDN
-||cdntips.net^
 ! 具体功能未知
 ||tfogc.com^
 ! 微信
