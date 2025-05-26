@@ -58,6 +58,8 @@
 ! 可疑域名，具体功能未未知
 ||a.sportradarserving.com^
 ||dis.criteo.com^
+! 极光推送--隐私上报
+||jpush.cn^
 ! 腾讯云分布式身份TDID-可信数字身份认证-隐私上报
 ||tdid.m.qq.com^
 ! 腾讯移动推送 TPNS(前腾讯信鸽)-隐私上报
