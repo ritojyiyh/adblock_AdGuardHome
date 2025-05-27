@@ -58,8 +58,18 @@
 ! 可疑域名，具体功能未未知
 ||a.sportradarserving.com^
 ||dis.criteo.com^
-! 极光推送--隐私上报
+! TalkingData移动大数据服务平台github.com/privacy-protection-tools/anti-AD/issues/223
+||3edc.cn^
+||cpatrk.net^
+||talkingdata.com^
+||talkingnews.net^
+||tendcloud.cn^
+||udrig.com^
+! 极光推送-用户行为分析隐私上报
 ||jpush.cn^
+||jpush.io^
+||jiguang.cn^
+||jpushcloud.cn^
 ! 腾讯云分布式身份TDID-可信数字身份认证-隐私上报
 ||tdid.m.qq.com^
 ! 腾讯移动推送 TPNS(前腾讯信鸽)-隐私上报
@@ -299,6 +309,8 @@ pushservice.10010.com^
 ||wnsmusic.qq.com^
 ||tmeadbak.y.qq.com^
 ||ugcup.music.qq.com^
+||ipv6.kg.qq.co^
+
 ! 版本更新
 ||c6.y.qq.com^
 ||base.music.qq.com^
@@ -321,6 +333,7 @@ pushservice.10010.com^
 ||ads.privacy.qq.com^
 ||mp.weixin.qq.com^
 ||ad.weixin.qq.com^
+||log.node.minigame.qq.com^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-vodp2plogin.teg.tencent-cloud.net^
@@ -421,6 +434,7 @@ pushservice.10010.com^
 ||iadmusicmat.music.126.net^
 ! 公共HTTPDNS服务
 ||httpdns.c.cdnhwc2.com^
+||httpdns.alicdn.com^
 ! 阿里公共HTTPDNS服务
 ||ttpdns.alicdn.com^
 ! 腾讯云DNS服务Public DNS(按需屏蔽)
@@ -527,7 +541,6 @@ dm.wo.com.cn
 ||ad.zijieapi.com.bytedns1.com^
 ||tnc3-bjlgy.zijieapi.com^
 ||tbm.snssdk.com^
-||dm-hl.toutiao.com^
 ||abtest-ch.snssdk.com^
 ||dm-hl.toutiao.com.bytedns1.com^
 ||dm-hl.toutiao.com.w.kunluncan.com^
@@ -541,10 +554,7 @@ dm.wo.com.cn
 ||saas.ecombdapi.com^
 ||saas.ecombdapi.com.bytedns1.com^
 ||saas.ecombdapi.com.w.cdngslb.com^
-||apmplus.volces.com^
 ||mssdk.volces.com^
-||mssdk-bu.bytedance.com^
-||gecko.snssdk.com^
 ||gecko.snssdk.com.bytedns1.com^
 ||gecko.snssdk.com.w.cdngslb.com^
 ||l7-online-self-max-v6.s.dsa.cdnbuild.net^
@@ -598,7 +608,6 @@ dm.wo.com.cn
 ||o2o.api.xiaomi.com^
 ||api.browser.miui.com^
 ||httpdns.browser.miui.com^
-||sdkconfig.ad.xiaomi.com^
 ||default.sdkconfig.ad.xiaomi.co^m
 ! 嗅觉浏览器
 ||v1.jinrishici.com^
@@ -806,11 +815,8 @@ dm.wo.com.cn
 ||update.googleapis.com^
 ! 屏蔽fiddler抓包软件，防止检查更新
 ||fiddler2.com^
-||potplayertv.daum.net^
-||play.kakao.com^
+! 暂时未知
 ||t1.daumcdn.net^
-||p1-play.edge4k.com^
-||p2-play.edge4k.com^
 ! 猫眼catsxp浏览器检测更新
 ||go-updater.catsxp.com^
 ||updater.catsxp.com^
@@ -866,6 +872,52 @@ dm.wo.com.cn
 ||mcs.zijieapi.com^
 ||mon.zijieapi.com^
 ! 疑似虎牙直播登录提醒
-! mdp-appconf-cn.heytapdownload.com
+||mdp-appconf-cn.heytapdownload.com^
 ! 疑似快手APP更新提醒
-! cname.e5product.dnsblock.sundayrx.net
+||cname.e5product.dnsblock.sundayrx.net^
+! 哔哩哔哩-日志上传-广告域名-交互行为上报
+||cm.bilibili.com^
+||data.bilibili.com^
+||dataflow.bilibili.com^
+! 疑似阿里系应用绕过拦截的尝试github.com/privacy-protection-tools/anti-AD/issues/1026
+||adashx.ut.uc.cn^
+||s-adashx.ut.uc.cn^
+||h-adashx.ut.uc.cn^
+||h-adashx.ut.amap.com^
+||applog-perf.uc.cn^
+! 酷安广告github.com/privacy-protection-tools/anti-AD/issues/989
+||aa.birdgesdk.com^
+||apmplus.volces.com^
+||cn-api.anythinktech.com^
+||datk.anythinktech.com^
+||dm-hl.toutiao.com^
+||dspsdk.pinduoduo.com^
+||gaode-jmacs.m.taobao.com^
+||gecko.snssdk.com^
+||mssdk-bu.bytedance.com^
+||volctrack.com^
+! 创维智能电视监视上报所有连网设备github.com/privacy-protection-tools/anti-AD/issues/402
+||gz-data.com^
+||gzads.com^
+||gozendata.com^
+! 夸克小说阅读广告github.com/privacy-protection-tools/anti-AD/issues/1015
+||promotion-partner.kuaishou.com^
+||statics.adanxing.com^
+||api.qttunion.com^
+! 阿里系app-用户行为分析上报github.com/privacy-protection-tools/anti-AD/issues/959
+||loggw-ex.alipay.com^
+||gm.mmstat.com^
+! 部分优酷广告以及数据收集github.com/privacy-protection-tools/anti-AD/issues/914
+||ykad-data.cp31.ott.cibntv.net^
+||valo.atm.youku.com^
+||pcapp-data-collect.youku.com^
+! 腾讯遥测域名
+||tpstelemetry.tencent.com^
+! 热云广告监测平台-数据收集上报github.com/privacy-protection-tools/anti-AD/issues/857
+||trackingio.com^
+! PotPlayer播放器
+||potplayertv.daum.net^
+||p1-play.kgslb.com^
+||p1-play.edge4k.com^
+||p2-play.edge4k.com^
+||play.kakao.com^
