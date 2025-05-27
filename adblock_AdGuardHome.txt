@@ -862,8 +862,6 @@ dm.wo.com.cn
 ||vpp-license-proxy.aliyuncs.com^
 ||pkg.58moto.com^
 ||abtest.jdd-hub.com^
-||biliapi.net^
-||biliapi.net^
 ! 抖音系产品统计信息相关的日志上报
 ||mcs.zijieapi.com^
 ||mon.zijieapi.com^
