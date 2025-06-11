@@ -70,6 +70,7 @@
 ||jpush.io^
 ||jiguang.cn^
 ||jpushcloud.cn^
+||easytomessage.com^
 ! 腾讯云分布式身份TDID-可信数字身份认证-隐私上报
 ||tdid.m.qq.com^
 ! 腾讯移动推送 TPNS(前腾讯信鸽)-隐私上报
@@ -135,6 +136,8 @@
 ||pos.baidu.com^
 ||wn.pos.baidu.com^
 ||cpro.baidustatic.com^
+! 百度数据研究中心
+||datax.baidu.com^
 ! 个灯-用户行为分析隐私上报
 ||igexin.com^
 ||sdk.open.phone.com^
@@ -669,8 +672,9 @@ dm.wo.com.cn
 ||yk-ssp.ad.youku.com^
 ! 美团相关
 ||dxys.pro^
-||p0.meituan.net^
-||p1.meituan.net^
+! 以下两个美团的暂时解除
+! ||p0.meituan.net^
+! ||p1.meituan.net^
 ! 小米广告相关
 ||sf0.market.xiaomi.com^
 ! 未知具体功能
@@ -921,3 +925,27 @@ dm.wo.com.cn
 ||p1-play.edge4k.com^
 ||p2-play.edge4k.com^
 ||play.kakao.com^
+! AICLK广告
+||aiclk.com^
+! 优比客思广告
+||ubixioe.com^
+tanx营销平台
+||tanx.com^
+! 网易云游戏相关部分广告相关
+||sigma-prodbehavior-a29.proxima.nie.netease.com^
+||sigma-flerken-a29.proxima.nie.netease.com^
+! 萤石云部分日志
+||log.ys7.com^
+! 疑似向日葵远程控制日志
+||sl-log.oray.net^
+! 未知作用，屏蔽后不影响使用
+||amdc-mini.m.taobao.com^
+! 经营宝APP检测更新
+||shopapp2.myj.com.cn^
+! 疑似华为手机安装软件安全检测-暂时屏蔽
+||store-drcn.hispace.dbankcloud.com^
+! 华为手机检查更新
+||query.hicloud.com^
+||update.hicloud.com^
+! 疑似华为软件内置dns
+||httpdns.platform.dbankcloud.com^
