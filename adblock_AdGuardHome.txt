@@ -180,7 +180,7 @@ pushservice.10010.com^
 ! 真我Realme手机可疑域名-很顽固
 ! ||conn3.coloros.com^暂时解除-否则可能无法接收软件Plus推送
 ! ||conn4.coloros.com^暂时解除-否则可能无法接收软件Plus推送
-||hcdnw.oppo.zj.cucloud.cncdn.com+^
+||hcdnw.oppo.zj.cucloud.cncdn.com^
 ! ||mdp-appconf-cn.heytapdownload.com^暂时解除
 ||appconf.heytapdownload.com^
 安天移动安全
