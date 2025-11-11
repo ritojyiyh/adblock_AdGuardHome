@@ -1,0 +1,886 @@
+! 这个版本解除了定位和真我手机相关的
+! 广告-TradPlus
+||tradplusad.com^
+! 广告-字节跳动火山引擎
+||volceapplog.com^
+! 广告-抖音巨量引擎
+||bytescm.com^
+! 巨量引擎穿山甲
+||csjplatform.com^
+! 广告-快手磁力引擎
+||e.kuaishou.com^
+! 广告-UC头条
+||uczzd.cn^
+||applog.uc.cn^
+! 广告-今日头条
+! ||mcs.snssdk.com^暂时解除
+||ctobsnssdk.com^
+||extlog.snssdk.com^
+||pangolin-sdk-toutiao1.com^
+||sf3-fe-tos.pglstatp-toutiao.com^
+||api-access.pangolin-sdk-toutiao.com^
+||log-api.pangolin-sdk-toutiao.com^
+||pangolin.snssdk.com^
+||tnc3-aliec2.snssdk.com^
+! 今日头条搜索站长平台
+||zhanzhang.toutiao.com^
+! 今日头条(如果使用今日头条APP可能需要放行这条)
+||dig.bdurl.net^
+! 广告-腾讯广点通
+||e.qq.com^
+! 广告-腾讯优量汇
+||gdt.qq.com^
+||qzs.gdtimg.com^
+||c.isdspeed.qq.com^
+||api.anythinktech.com^
+! 广告-聚胜万合MediaV
+||mediav.com^
+! 广告-塔酷信息TopOn
+||toponad.com^
+! 广告-京东开普勒
+||dgstatic.jd.com^
+! 广告-京东
+||kepler.jd.com^
+||dg.k.jd.com^
+||Google展示广告
+||tpc.googlesyndication.com^
+||googleads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+! Google功能未知
+||tpc.googlesyndicat^
+! 国外广告平台
+||c1.adform.net^
+! 国外广告平台zemanta^
+||b1sync.zemanta.com^
+! 国外广告平台dmedo
+||pool.admedo.com^
+! 国外广告平台Appier
+||a.c.appier.net^
+! 可疑域名，具体功能未未知
+||a.sportradarserving.com^
+||dis.criteo.com^
+! TalkingData移动大数据服务平台github.com/privacy-protection-tools/anti-AD/issues/223
+||3edc.cn^
+||cpatrk.net^
+||talkingdata.com^
+||talkingnews.net^
+||tendcloud.cn^
+||udrig.com^
+! 极光推送-用户行为分析隐私上报
+||jpush.cn^
+||jpush.io^
+||jiguang.cn^
+||jpushcloud.cn^
+||easytomessage.com^
+! 腾讯云分布式身份TDID-可信数字身份认证-隐私上报
+||tdid.m.qq.com^
+! 腾讯移动推送 TPNS(前腾讯信鸽)-隐私上报
+||tpns.tencent.com^
+! 腾讯Bugly-用户行为分析隐私上报
+||bugly.qq.com^
+||android.bugly.qq.com^
+||android.rqd.qq.com^
+||androidrqd.iot.wechatpay.cn^
+||iosrqd.iot.wechatpay.cn^
+! 腾讯灯塔-用户行为分析隐私上报
+||mdt.qq.com^
+||trace.qq.com^
+||beacon.qq.com^
+! Flurry-用户行为分析隐私上报
+||flurry.com^
+! 如果要用QQ超级萌宠签到需要解除这条
+! oth.eve.mdt.qq.com
+! 今日头条Datarangers-用户行为分析隐私上报、火山引擎
+||tobsnssdk.com^
+||volcengineapi.com^
+||byteplusapi.com^
+! 腾讯云华佗诊断-用户行为分析隐私上报+定位
+||huatuo.qq.com^
+||wup.imtt.qq.com^
+! 腾讯统计-用户行为分析隐私上报
+||snowflake.qq.com^
+||wup.imtt.qq.com^
+||digibites.nl^
+! 微软App Center-用户行为分析隐私上报
+||in.appcenter.ms^
+||codepush.appcenter.ms^
+! openinstall软件渠道统计-用户行为分析隐私上报
+||openinstall.io^
+! 友盟-用户行为分析隐私上报
+||umeng.co^
+||umeng.com^
+||umeng.com.muge.info^
+||umengcloud.com^
+||umsns.com^
+||umengacs.m.taobao.com^
+||umengjmacs.m.taobao.com^
+||alog.umengcloud.com.gds.alibabadns.com^
+! CNZZ统计-用户行为分析隐私上报
+||cnzz.com^
+! 个推-用户行为分析隐私上报
+||getui.com^
+||igetui.com^
+||gepush.com^
+||inpagepush.com^
+! 易观分析-用户行为分析隐私上报
+||analysys.cn^
+! 秒针-用户行为分析隐私上报
+||miaozhen.com^
+! MobTech袤博(前上海游昆)-用户行为分析隐私上报
+||mob.com^
+||dutils.com^
+! 百度统计Crab-用户行为分析隐私上报
+||crab.baidu.com^
+||nsclick.baidu.com^
+||dxp.baidu.com^
+||hm.baidu.com^
+||pos.baidu.com^
+||wn.pos.baidu.com^
+||cpro.baidustatic.com^
+! 百度数据研究中心
+||datax.baidu.com^
+! 个灯-用户行为分析隐私上报
+||igexin.com^
+||sdk.open.phone.com^
+||sdk.open.phone.igexin.com^
+! 卓信ID-用户行为分析隐私上报
+||mobileservice.cn^
+||zxid-m.mobileservice.cn^
+! 博睿数据-用户行为分析隐私上报
+||bonree.com^
+! 百度-用户行为分析隐私上报
+||sp1.baidu.com^
+||gsp1.baidu.com^
+||usp1.baidu.com^
+! 阿里云-用户行为分析隐私上报
+||adash.man.aliyuncs.com^
+! 阿里云无痕验证
+||cf.aliyun.com^
+! 阿里WAF云盾
+! ||yundunwaf.com^
+! ||yundunwaf1.com^
+! ||yundunwaf2.com^
+! ||yundunwaf3.com^
+! ||yundunwaf4.com^
+! ||yundunwaf5.com^
+! 中国联通-信息获取上报
+pushservice.10010.com^
+! 阿里云内置域名解析服务
+||amdcopen.m.taobao.com^
+! 腾讯应用宝更新相关! 很多软件用的是应用宝的
+||pp.myapp.com^
+||sqdd.myapp.com^
+! Google跟踪器-具体功能未知
+||firebaseinstallations.googleapis.com^
+! 谷歌的用于检测网络连通性，屏蔽后无法使用设置里的私人dns，或者用别的工具把这个链接换成国内的然后再屏蔽
+! connectivitycheck.gstatic.com
+! 安天移动安全
+||avlyun.com^
+! Realme应用增强服务_安装软件后上传包名
+||icosa.coloros.com^
+! 真我Realme手机营销广告相关域名
+||ads.heytapmobi.com^
+! 魅族手机推送SDK
+! norma-external-collect.meizu.com
+! 真我Realme手机安装软件界面广告
+||stg-data.ads.heytapmobi.com^
+! 真我Realme手机拨号和短信广告
+||sms.ads.heytapmobi.com^
+! 讯飞输入法(屏蔽输入法联网)
+||xfinfr.com^
+||voicecloud.cn^
+! 讯飞语音相关
+||xf-yun.com^
+||voicecloud.cn^
+! 数据分析ABtest openspeech-讯飞语音相关
+||openspeech.cn^
+! 新浪微博-微博广告相关
+||ad.weibo.com^
+||uve.weibo.com^
+||adimg.uve.weibo.com^
+! 新浪微博广告(developers.biz.weibo.com)
+||wbapp.mobile.sina.cn^
+||biz.weibo.com^
+||wbapp.mobile.sina.cn^
+||ad.us.sinaimg.cn^
+||dp.im.weibo.cn^
+||h5.sinaimg.cn^
+||sdkapp.mobile.sina.cn^
+||u1.img.mobile.sina.cn^
+! 微信公众号广告
+||wxsnsdythumb.wxs.qq.com^
+||wxa.wxs.qq.com^
+||wxsnsdy.wxs.qq.com^
+! 微信公网IP查询
+||ipv4.gdt.qq.com^
+! 网易产品
+||httpdns-sdk.n.netease.com^
+||httpdns.n.netease.com^
+! 网易DNS公网IP查询-按需屏蔽
+||nstool.netease.com^
+! 网易云音乐DNS服务
+||httpdns.music.163.com^ 
+! 百度网盘检查更新
+||update.baidu.com^
+||update.pan.n.shifen.com^
+||update.pan.baidu.com^
+! 百度网盘P2P加速
+||bcsp2p.baidu.com^
+||bcsp2p.n.shifen.com^
+! 百度广告-竞价推广
+||ada.baidu.com^
+! 乐播投屏广告-可能和网盘类APP的视频播放的投屏有关-待测试
+! hpplay.cn
+||rps.hpplay.cn^
+||gslb.hpplay.cn^
+||vipauth.hpplay.cn^
+||conf.hpplay.cn^
+||rp.hpplay.cn^
+||ssdkauth.hpplay.cn^
+! 蜻蜓FM
+! z.qingting.fm
+
+||abtest.z.qingting.fm^
+||list.z.qingting.fm^
+! 广告-济南维快AdHubSDK
+||hubcloud.com.cn^
+! 广告-AdScope
+||beizi.biz^
+! 360相关
+! 如果不用360的任何东西直接屏蔽掉360的一级域名
+||360.cn^
+||360mon.cn^
+! QQ音乐广告
+||ad.tencentmusic.com^
+||adstats.tencentmusic.com^
+||adexpo.tencentmusic.com^
+||ssp.tencentmusic.com^
+||wnsmusic.qq.com^
+||tmeadbak.y.qq.com^
+||ugcup.music.qq.com^
+||ipv6.kg.qq.co^
+
+! 版本更新
+||c6.y.qq.com^
+||base.music.qq.com^
+! TIM QQ
+||log.tbs.qq.com^
+||log.qvb.qcloud.com^
+||txp2p2.liveplay.egame.qq.com^
+||dns.weixin.qq.com^
+||dns.weixin.qq.com.cn^
+||aedns.weixin.qq.com^
+||||txpcdn.liveplay.egame.qq.com^
+||flv265-txpcdn.liveplay.egame.qq.com^
+||flv265-txpcdn-direct.liveplay.egame.qq.com^
+||txpcdn-direct.liveplay.egame.qq.com^
+||txp2p1.liveplay.egame.qq.com^
+! 具体功能未知
+||tfogc.com^
+! 微信
+||wx.qlogo.cn^
+||ads.privacy.qq.com^
+||mp.weixin.qq.com^
+||ad.weixin.qq.com^
+||log.node.minigame.qq.com^
+||apd-pcdnwxlogin.teg.tencent-cloud.net^
+||apd-pcdnwxnat.teg.tencent-cloud.net^
+||apd-vodp2plogin.teg.tencent-cloud.net^
+||apd-vodp2pnat.teg.tencent-cloud.net^
+||apd-pcdnwxstat.teg.tencent-cloud.net^
+||apd-pcdnvodstat.teg.tencent-cloud.net^
+! 微信DNS请求
+||szlong.weixin.qq.com^
+||dl.txcdns.com^
+! 抖音
+||mon.snssdk.com^
+! ||mcs.snssdk.com^暂时解除
+||sgali-mcs.byteoversea.com^
+||maliva-mcs.byteoversea.com^
+! 抖音-疑似更新检测
+||lf.snssdk.com^
+! 百度贴吧
+||fenxi.com^
+||nzwgs.com^
+||ap.livemediav.com^
+||tieba-ares.cdn.bcebos.com^
+||als.baidu.com^
+||sjh.baidu.com^
+||cpro.baidu.com^
+||lupic.cdn.bcebos.com^
+||s3m.mediav.com^
+||live-s3m.mediav.com^
+||ns-strategy.cdn.bcebos.com^
+||fc1tn.baidu.com^
+||bj.bcebos.com^
+||fc-image.cdn.bcebos.com^
+||p3.ssl.qhimgs0.com^
+||fc2tn.baidu.com^
+||fc4tn.baidu.com^
+||fc5tn.baidu.com^
+! 百度内置DNS服务
+||httpsdns.baidu.com^
+! 百度慧推
+||sofire.baidu.com^
+! 淘宝
+||yixiu-abtest.alicdn.com^
+! 开屏广告
+||wcp.taobao.com^
+! 淘宝频繁验证
+||bixi.alicdn.com^
+! X浏览器(不与X浏览器的服务器通信)按需屏蔽
+||srvcn.xbext.com^
+! xbext.com
+! 摸鱼Kik
+||cfg.imtt.qq.com^
+! 疑似检测版本更新
+! ||dldir1.qq.com^暂时解除
+! VMoss虚拟机通信
+||vproapi.vmos.cn^
+||mpush-api.aliyun.com^
+! 屏蔽运营商流量本机号码一键登录-按需屏蔽
+! 中国移动
+||config.cmpassport.com^
+||www.cmpassport.com^
+||wap.cmpassport.com^
+||onekey1.cmpassport.com^
+||log1.cmpassport.com^
+||smsks1.cmpassport.com^
+||verify.cmpassport.com^
+! 中国联通
+||opencloud.wostore.cn^
+||auth.wosms.cn^
+||id.mail.wo.cn^
+||mdn.open.wo.cn^
+||hmrz.wo.cn^
+||nishub1.10010.com^
+||enrichgw.10010.com^
+||unipayupg.wostore.cn^
+! 中国电信
+||id6.me
+! 可以直接一级域名(按需)e.189.cn
+! e.189.cn^
+||open.e.189.cn^
+! 中国广电
+||Idk.^
+! 网易易盾号码认证
+||ye.dun.163yun.com^
+! 网易易盾(屏蔽后应用闪退)
+||ac.dun.163yun.com^
+! 网易云音乐
+||netapm.music.163.com^
+||mam.netease.com^
+||natdetection.onethingpcs.com^
+||lbs.netease.im^
+||iadmusicmat.music.126.net^
+! 公共HTTPDNS服务
+||httpdns.c.cdnhwc2.com^
+||httpdns.alicdn.com^
+! 阿里公共HTTPDNS服务
+||ttpdns.alicdn.com^
+! 腾讯云DNS服务Public DNS(按需屏蔽)
+||httpdns.pro^
+! 快手
+||apidns.kwd.inkuai.com^
+||kuaishou.httpdns.pro^
+||hdns.ksyun.com^
+||sdkoptedge.chinanetcenter.com^
+! 快手P2P
+||ks-p2p.pull.yximgs.com^
+||hw-p2p.pull.yximgs.com^
+||hw-p2p-pull.video-voip.com^
+||hw-p2p-pull.live-voip.com^
+||ali-p2p-pull.video-voip.com^
+||ali-p2p.pull.yximgs.com^
+||ali-p2p-pull.live-voip.com^
+||bd-p2p-pull.video-voip.com^
+||bd-p2p.pull.yximgs.com^
+||bd-p2p-pull.live-voip.com^
+||ws-p2p.pull.yximgs.com^
+||ws-p2p-pull.video-voip.com^
+||ws-p2p-pull.live-voip.com^
+||tx-p2p-pull.live-voip.com^
+||tx-p2p.pull.yximgs.com^
+||tx-p2p-pull.video-voip.com^
+||tx-p2p-v2.pull.yximgs.com^
+||ws-p2p-v2.pull.yximgs.com^
+||bd-p2p-v2.pull.yximgs.com^
+||djvod.ndcimgs.com^
+! 中国电信分析上报
+||webwebfenxi.189.cn^
+||webwebfenxi.189.cn:9000^
+||webwebfenxi.189.cn:9002^
+! 中国电信分析上报-具体功能暂时未知-疑似开机联网注册
+! zzhc.vnet.cn
+! 中国联通网络注册(没装联通卡也会发送包)-按需屏蔽
+dm.wo.com.cn
+! 360极速浏览器手机端
+||api.app.m.so.com^
+||msedl.360safe.com^
+! 米家
+! ||cdn.cnbj1.fds.api.mi-img.com^暂时解除
+||login.sina.com.cn^
+||graph.facebook.com^
+! 中石化易捷加油
+||acs4public.m.taobao.com^
+! 查询公网IP! 公网IP查询
+! icanhazip.com
+! 尚博信统计监控数据或广告
+||deepermobile.com^
+! 网易邮箱大师——————
+! 疑似版本检测更新-存疑
+||appconf.mail.163.com^
+! 定位
+||lbs.mail.163.com^
+! Google通信相关! 按需屏蔽
+! www.googleapis.com
+! checkin.gstatic.com
+! 115网盘版本更新
+||down.115.com^
+||bookmark.115.com^
+! 115网盘TV端版本更新
+||appversion.115.com^
+! 腾讯移动终端sdk、第三方登录、网页登陆! 按需屏蔽
+! cgi.connect.qq.com
+! 酷安
+||avatar.coolapk.com^
+! 酷安广告
+||orbit.jd.com^
+||mapi.m.jd.com^
+||media.9game.cn^
+! WiFi万能钥匙——————
+! 这段为广告域名不影响使用的可以直接一级域名屏蔽
+||volccdn.com^
+||dnbuild.net^
+||queniuyk.com^
+||ecombdapi.com^
+||wkanx.com^
+||bytegslb.com^
+||lsttnews.com^
+||wifi188.com^
+! ||queniusz.com^暂时解除
+||lianwangtech.com^
+||applk.cn^
+||51y5.net^
+||volccdn.com^
+||lsttnews.com^
+! 尚网广告
+! ctobsnssdk.com
+
+||readfile.wifi.com^
+||shop-image.lianliantao.cn^
+||mobads-logs.baidu.com^
+||mobads-logs.e.shifen.com^
+||mobads.baidu.com^
+||ad.zijieapi.com^
+||webcast-open.douyin.com^
+||tnc3-aliec2.zijieapi.com^
+||tnc3-aliec2.zijieapi.com.w.kunluncan.com^
+||ad.zijieapi.com.bytedns1.com^
+||tnc3-bjlgy.zijieapi.com^
+||tbm.snssdk.com^
+||abtest-ch.snssdk.com^
+||dm-hl.toutiao.com.bytedns1.com^
+||dm-hl.toutiao.com.w.kunluncan.com^
+||abtest-ch.snssdk.com.bytedns1.com^
+||abtest-ch.snssdk.com.w.cdngslb.com^
+||dm.bytedance.com^
+||dm.toutiao.com^
+||tnc3-bjlgy.bytedance.com^
+||tnc11-alisc1.zijieapi.com^
+||webcast5-open-lf.douyin.com^
+||saas.ecombdapi.com^
+||saas.ecombdapi.com.bytedns1.com^
+||saas.ecombdapi.com.w.cdngslb.com^
+||mssdk.volces.com^
+||gecko.snssdk.com.bytedns1.com^
+||gecko.snssdk.com.w.cdngslb.com^
+||l7-online-self-max-v6.s.dsa.cdnbuild.net^
+||stream.snssdk.com^
+||stream.snssdk.com.bytedns1.com^
+||stream.snssdk.com.w.cdngslb.com^
+||v-rbv01-lsttnews-com-idvfomt.qiniudns.com^
+||chinadownloadvod.idvl99x.china.line.qiniudns.com^
+||vod-all.qiniu.com.volcgslb.com^
+||tnc3-alisc1.zijieapi.com^
+||log-api.pangolin-sdk-toutiao-b.com^
+||api-access.pangolin-sdk-toutiao-b.com^
+||mp-api.lsttapp.com^
+||hmma.baidu.com^
+||bes-mtj.baidu.com^
+! PPTV
+||tnc3-bjlgy.snssdk.com^
+||log.suning.com^
+||log2.cmpassport.com^
+||ads.aplus.pptv.com^
+! 网速管家检测更新(存疑)
+||forge-test.speedtest.cn^
+! 闲鱼检测更新
+||appdownload.xianyu.alibaba-inc.com^
+! 万能下载-检查更新
+||alldown.magictool.cn^
+! GPS工具箱
+||tnc3-alisc1.snssdk.com^
+||lp1.lapianpay.com^
+! 视频转换器
+||cn-analytics.enjoy-mobi.com^
+||cn-buy.enjoy-mobi.com^
+||cn-api.enjoy-mobi.com^
+||app.rjc6.cn^
+! 酷狗音乐
+||log.web.kugou.com^
+||ads.service.kugou.com^
+||log.stat.kugou.com^
+||adserviceretry.kugou.com^
+||online.kugou.com^
+! Pocket Pt（PT客户端）
+||api.kxmrg.com^
+! 小米浏览器
+||data.mistat.xiaomi.com^
+||tracking.miui.com^
+||hd.browser.miui.com^
+||ssl-cdn.static.browser.mi-img.com^
+||hot.browser.miui.com^
+||qsb.browser.miui.com^
+||r.browser.miui.com^
+||o2o.api.xiaomi.com^
+||api.browser.miui.com^
+||httpdns.browser.miui.com^
+||default.sdkconfig.ad.xiaomi.co^m
+! 嗅觉浏览器
+||v1.jinrishici.com^
+||v1.jinrishici.com.a.bdydns.com^
+||opencdn.jomodns.com^
+||haikuoshijie.cn^
+||gh.haikuoshijie.cn^
+! 嗅觉浏览器腾讯X5内核-日志上传
+||tbs.gtyy.tcdnos.com^
+||tbsrecovery.imtt.qq.com^
+||res.imtt.tc.qq.com^
+||tbs.imtt.qq.com^
+||res.imtt.qq.com^
+||res.imtt.qq.com.sched.px-dk.tdnsv6^
+||res.imtt.qq.com.72-73.tpic.cdn.chinaidcnet.com^
+||tbs.gtyy.tcdnos.com.ctadns.cn^
+! PPTV视频广告
+||billing.uc.pptv.com^
+! Todesk发送版本信息
+||st.todesk.com^
+! 检查更新
+||update.todesk.com^
+||download-a.ucloud.com.cn^
+||update.todesk.com.ucloud.com.cn^
+! httpcanary小黄鸟抓包(破解版的可以直接屏蔽)
+||reqable.com^
+! 摩托范
+||adkwai.com^
+||x.jd.com^
+||xlog.jd.com^
+||janapi.jd.com^
+||360os.com^
+||ad.a.yximgs.com^
+||hz.127.net^
+! 数美风控
+||fengkongcloud.com^
+! 网易七鱼
+||qiyukf.com^
+||ap1.qiyukf.com^
+||fp-it.fengkongcloud.com^
+||p1-lm.adkwai.com^
+||p1-lm.adukwai.com^
+||ali-ad.a.yximgs.com^
+||ad.a.yximgs.com^
+||ali-ad.a.yximgs.com^
+||open.kwaizt.com^
+||wanproxy-hz.127.net^
+||log-center.58moto.com^
+! 视频客户端过滤(来自酷安晴雅分享)
+||sjarvis.taobao.com^
+||ykad-data.youku.com^
+||cad.youku.com^
+||h-adashx.ut.taobao.com^
+||xpgw-xcdn.youku.com^
+||dorangesource.alicdn.com^
+||activity.youku.com^
+||audid-api.taobao.com^
+||vali-g1.cp31.ott.cibntv.net^
+||yk-ssp.ad.youku.com^
+! 美团相关
+||dxys.pro^
+! 以下两个美团的暂时解除
+! ||p0.meituan.net^
+! ||p1.meituan.net^
+! 小米广告相关
+||sf0.market.xiaomi.com^
+! 未知具体功能
+||adsdkapi.dxys.pro^
+! 阿里云系列盒子
+||adash.m.taobao.com^
+||tvupgrade.yunos.com^
+||osupdate.aliyun.com ^
+||osfota.cdn.aliyun.com^
+||osupdateservice.yunos.com^
+||yunos.com^
+||android.pool.ntp.org^
+||account.yunos.com^
+||activity.tv.yunos.com^
+||api.tv.moliv.cn^
+||api.yunos.wasu.tv^
+||api.cloudapp.aliyun.com^
+||asia.pool.ntp.org^
+||client.aliyun.com^
+||cmns.mobile.aliyun.com^
+||galitv.alicdn.com^
+||httpdns.danuoyi.tbcache.com^
+||ic.tv.aliyun.com^
+||my.molitv.cn^
+||north-america.pool.ntp.org^
+||osupdateservice.yunos.com^
+||pictorial.alitv.yunos.com^
+||pool.ntp.org^
+||s2a.time.edu.cn^
+||tvadvert.yunos.com^
+||tvacs.yunos.com^
+||upgrade.tv.yunos.com^
+||wlc.alibaba-inc.com^
+||apoll.m.taobao.com^
+||api.m.taobao.com^
+||ynuf.alipay.com^
+||wb.110.taobao.com^
+||tvapps.yunos.com^
+! 华为云相关广告
+||ads-drcn.platform.hihonorcloud.com^
+! VIVO手机用户行为数据上传+广告
+||marketing-api.vivo.com.cn^
+||vcode-api.vivo.com.cn^
+||open-ad.vivo.com.cn^
+||stappupgrade.vivo.com.cn^
+||vcode-od.vivo.com.cn^
+! 应用程序更新相关
+||appupgrade.vivo.com.cn^
+! 客厅长虹电视
+||chsmarttv.com^
+||monitor.ads^
+||tvuser-ch.cedock.com^
+||uapi.chiq-cloud.com^
+||jfapi.chiq-cloud.com^
+! 屏蔽系统升级
+||download.changhong.upgrade2.huan.tv^
+||downloadxml.changhong.upgrade2.huan.tv^
+||service.changhong.upgrade2.huan.tv^
+! 屏蔽欢视的广告
+||huan.tv^
+! 屏蔽开机广告
+||smart-tv.cn^
+! CIBN酷喵
+||ott.cibntv.net^
+||pis-pcdn.youku.com^
+! 检查更新
+||ynuf.aliapp.org^
+||appupgrade.alicdn.com^
+! 疑似播放前广告
+||valipl.cp31.ott.cibntv.net^
+||pl.cp31.ott.cibntv.net^
+! 芒果TV-TV端
+||ottupdate.api.mgtv.com^
+||ottupdate2.api.mgtv.com^
+||ott.liveapi.mgtv.com^
+! 退出时弹出的广告
+||4img.mgtv.com^
+! 疑似检查更新
+||ttupdate2.api.mgtv.com^
+! 百度安全
+||ota.baidu.com^
+! 中国移动智慧家庭智能组网相关
+||jtwlgl.hn.chinamobile.com^
+||ifa.ihnm.chinamobile.com^
+||config.rcs.chinamobile.com^
+! 疑似
+||dmzzh01.hbq.r.10086.cn^
+||sipzzh16.hbq.r.10086.cn^
+||sipzzh16.hbq.r.10086.cn^
+||_sips._tcp.sipzzh16.hbq.r.10086.cn^
+! 腾讯视频TV端(云视听极光
+||sdk-e.play.aiseet.atianqi.com^
+||vv.play.aiseet.atianqi.com^
+||qrapi.play.aiseet.atianqi.com^
+! 疑似开屏广告
+||vmmp.qpic.cn^
+! 酷狗音乐TV端
+||adsfilebssdlbig.ali.kugou.com^
+! 支付宝
+||loggw.alipay.com^
+||loggw-extiny.alipay.com^
+! 华为相关
+||*httpdns*huawei*$important
+||又拍云CDN
+||httpdns.upyun.com^
+! 疑似阿里昆仑用户诊断工具
+||pss.alicdn.com^
+! 星域CND(网心云)
+||xycdn.com^
+! PT站hdvideo相关
+@@||hdvideo.one^
+@@||creditracker.net^
+! @@||168.6.168.192.in-addr.arpa^
+||7k7k.com^
+! 视频网站、直播网站PCDN
+! 哔哩哔哩Mcdn
+||mcdn.bilivideo.cn^
+||mcdn.bilivideo.com^
+||szbdyd.com^
+! 虎牙直播p2p
+||p2p.huya.com^
+||hw.p2p.huya.com^
+||va.huya.com^
+||statwup.huya.com^
+! 斗鱼直播p2p
+! QQ音乐PCDN
+||tp2p.kg.qq.com^
+||twns.p2ptun.qq.com^
+||musicps.p2p.qq.com^
+||musicpunch.p2p.qq.com^
+! FFRenamePro霏霏更名助手检查更新
+||ffhome.com^
+! 屏蔽音速启动联网
+||tj5.3lsoft.com^
+||down.3lsoft.com^
+||statistics.guangsu.cn^
+||ud5.3lsoft.com^
+||tj5.3lsoft.com^
+! 115电脑版检查更新
+||appversion.115.com^
+! 打开浏览器Google检查相关
+||update.googleapis.com^
+! 屏蔽fiddler抓包软件，防止检查更新
+||fiddler2.com^
+! 暂时未知
+||t1.daumcdn.net^
+! 猫眼catsxp浏览器检测更新
+||go-updater.catsxp.com^
+||updater.catsxp.com^
+||catsxp.oss-cn-hongkong.aliyuncs.com^
+! 指定115网盘下载服务器IP
+! 119.167.136.55 cdnfhnfile.115.com
+! 指定115网盘上传服务器IP
+! 157.255.170.205 fhnfile.oss-cn-shenzhen.aliyuncs.com
+! 指定魅族手机官网刷机包IP
+! 116.177.239.35 firmware-res.flyme.com
+! 疑似123云盘检查更新相关
+||metrics-collector.xaidc.com^
+! 123云盘检查更新下载
+||app.123pan.com^
+! 123云盘取消更新后连接的域名
+||sentry.123pan.com^
+! 屏蔽人人译视界联网
+||1sj.tv^
+! IObit系列软件检测更新
+||update.iobit.com^
+! 屏蔽小米手机联网
+||connect.rom.miui.com^
+! OPPO手机通信域名
+||newds-api-cn-01.allawntech.com^
+! ||conn-service-cn-03.allawntech.com^Android连接性检测 判断WiFi连接质量-#OPPO手机会提示无法联网-已解除
+! ||conn-service-cn-04.allawntech.com^Android连接性检测 判断WiFi连接质量-#OPPO手机会提示无法联网-已解除
+! ||conn-service-cn-05.allawntech.com^Android连接性检测 判断WiFi连接质量-#OPPO手机会提示无法联网-已解除
+||conn1.oppomobile.com^
+||adsfs-sdkconfig.heytapimage.com^
+||omes-sec.heytapmobi.com^
+||apisnd.heytapmobi.com^
+||esa-reg.myoppo.com^
+||httpdns.push.heytapmobi.com^
+||ota-recruit-cn.allawntech.com^
+||obus-dc20123-cn.heytapmobi.com^
+! 文件管理器
+||traffic-operation-cn.allawntech.com^
+! 相册
+||fourier-videoclip-cn.allawntech.com^
+||proxy-apps-cn.allawntech.com^
+! 中兴路由器联网
+||www.zte.com.cn^
+! 刷流量-网络面板IP检测
+||ipv4.ip.sb^
+! 忘了是干什么的了
+||adsfs.heytapimage.com^
+||nosup-hz1.127.net^
+||ads-union.ocs-cn-south1.heytapcs.com^
+||vpp-license-proxy.aliyuncs.com^
+||pkg.58moto.com^
+||abtest.jdd-hub.com^
+! 抖音系产品统计信息相关的日志上报
+||mcs.zijieapi.com^
+||mon.zijieapi.com^
+! 疑似虎牙直播登录提醒
+||mdp-appconf-cn.heytapdownload.com^
+! 疑似快手APP更新提醒
+||cname.e5product.dnsblock.sundayrx.net^
+! 哔哩哔哩-日志上传-广告域名-交互行为上报
+||cm.bilibili.com^
+||data.bilibili.com^
+||dataflow.bilibili.com^
+! 疑似阿里系应用绕过拦截的尝试github.com/privacy-protection-tools/anti-AD/issues/1026
+||adashx.ut.uc.cn^
+||s-adashx.ut.uc.cn^
+||h-adashx.ut.uc.cn^
+||h-adashx.ut.amap.com^
+||applog-perf.uc.cn^
+! 酷安广告github.com/privacy-protection-tools/anti-AD/issues/989
+||aa.birdgesdk.com^
+||apmplus.volces.com^
+||cn-api.anythinktech.com^
+||datk.anythinktech.com^
+||dm-hl.toutiao.com^
+||dspsdk.pinduoduo.com^
+||gaode-jmacs.m.taobao.com^
+||gecko.snssdk.com^
+||mssdk-bu.bytedance.com^
+||volctrack.com^
+! 创维智能电视监视上报所有连网设备github.com/privacy-protection-tools/anti-AD/issues/402
+||gz-data.com^
+||gzads.com^
+||gozendata.com^
+! 夸克小说阅读广告github.com/privacy-protection-tools/anti-AD/issues/1015
+||promotion-partner.kuaishou.com^
+||statics.adanxing.com^
+||api.qttunion.com^
+! 阿里系app-用户行为分析上报github.com/privacy-protection-tools/anti-AD/issues/959
+||loggw-ex.alipay.com^
+||gm.mmstat.com^
+! 部分优酷广告以及数据收集github.com/privacy-protection-tools/anti-AD/issues/914
+||ykad-data.cp31.ott.cibntv.net^
+||valo.atm.youku.com^
+||pcapp-data-collect.youku.com^
+! 腾讯遥测域名
+||tpstelemetry.tencent.com^
+! 热云广告监测平台-数据收集上报github.com/privacy-protection-tools/anti-AD/issues/857
+||trackingio.com^
+! PotPlayer播放器
+||potplayertv.daum.net^
+||p1-play.kgslb.com^
+||p1-play.edge4k.com^
+||p2-play.edge4k.com^
+||play.kakao.com^
+! AICLK广告
+||aiclk.com^
+! 优比客思广告
+||ubixioe.com^
+! tanx营销平台
+||tanx.com^
+! 网易云游戏相关部分广告相关
+||sigma-prodbehavior-a29.proxima.nie.netease.com^
+||sigma-flerken-a29.proxima.nie.netease.com^
+! 萤石云部分日志
+||log.ys7.com^
+! 疑似向日葵远程控制日志
+||sl-log.oray.net^
+! 未知作用，屏蔽后不影响使用
+||amdc-mini.m.taobao.com^
+! 经营宝APP检测更新
+||shopapp2.myj.com.cn^
+! 疑似华为手机安装软件安全检测-暂时屏蔽
+||store-drcn.hispace.dbankcloud.com^
+! 华为手机检查更新
+||query.hicloud.com^
+||update.hicloud.com^
+! 疑似华为软件内置dns
+||httpdns.platform.dbankcloud.com^
