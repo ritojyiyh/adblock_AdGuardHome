@@ -1,0 +1,47 @@
+⬇
+! 115网盘TV端
+@@||cpats01.115.com^
+! PT站hdvideo相关
+@@||hdvideo.one^
+@@||creditracker.net^
+! 钉钉
+@@||dingtalk.com^
+@@||open.dingtalk.com^
+@@||img.alicdn.com^
+! 新浪微博相关
+@@||passport.weibo.com^
+@@||login.sina.com.cn^
+@@||h5.sinaimg.cn^
+! 中国电信189邮箱相关
+@@||open.e.189.cn^
+! 抖音相关
+@@||www.douyin.com^
+@@||tos-d-x-lf.douyin.com^
+@@||@@||imagex.bytedanceapi.com^
+! 未知
+@@||lf-cdn-tos.bytescm.com^
+@@||multiapp-cache-weboffice.wpscdn.cn^
+@@||imgs2.58moto.com^
+! 豆包Ai
+@@||www.doubao.com^
+! 微信相关
+@@||mp.weixin.qq.com^
+! B站cdn相关域名，屏蔽后无法获取CDN地址
+@@||smtcdns.net^
+! 腾讯云CDN全站加速服务公用域名
+! cdntips.net
+! 未整理名称
+@@||mcs.doubao.com^
+@@||mon.zijieapi.com^
+@@||opt.doubao.com^
+@@||mcs.zijieapi.com^
+@@||yiyan-plugins.bj.bcebos.com^
+@@||*.mcdn.bilivideo.cn^
+@@||www.iqiyi.com^
+@@||data6.video.iqiyi.com^
+@@||time.video.iqiyi.com^
+@@||stc.iqiyipic.com^
+@@||static.iqiyi.com^
+@@||valipl10.cp31.ott.cibntv.net^
+@@||valipl-bkp1.cp31.ott.cibntv.net^
+@@||bookmark.115.com^
