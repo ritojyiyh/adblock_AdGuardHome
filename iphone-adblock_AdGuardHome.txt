@@ -729,6 +729,9 @@ dm.wo.com.cn
 ||mcdn.bilivideo.cn^
 ||mcdn.bilivideo.com^
 ||szbdyd.com^
+||*pcdn*.biliapi.net^
+||mcdn.bilivideo.cn^
+||cn-*.bilivideo.com
 ! 虎牙直播p2p
 ||p2p.huya.com^
 ||hw.p2p.huya.com^
