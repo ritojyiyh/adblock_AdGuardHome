@@ -183,7 +183,7 @@ pushservice.10010.com^
 ||hcdnw.oppo.zj.cucloud.cncdn.com^
 ! ||mdp-appconf-cn.heytapdownload.com^暂时解除
 ||appconf.heytapdownload.com^
-安天移动安全
+! 安天移动安全
 ||avlyun.com^
 ! Realme应用增强服务_安装软件后上传包名
 ||icosa.coloros.com^
@@ -510,9 +510,6 @@ dm.wo.com.cn
 ||orbit.jd.com^
 ||mapi.m.jd.com^
 ||media.9game.cn^
-! 酷安白嫖别人的CDN
-||cdn.jsdelivr.net^
-||api.github.com^
 ! WiFi万能钥匙——————
 ! 这段为广告域名不影响使用的可以直接一级域名屏蔽
 ||volccdn.com^
@@ -929,7 +926,7 @@ dm.wo.com.cn
 ||aiclk.com^
 ! 优比客思广告
 ||ubixioe.com^
-tanx营销平台
+! tanx营销平台
 ||tanx.com^
 ! 网易云游戏相关部分广告相关
 ||sigma-prodbehavior-a29.proxima.nie.netease.com^
