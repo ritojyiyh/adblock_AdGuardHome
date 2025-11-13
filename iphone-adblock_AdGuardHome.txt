@@ -872,8 +872,6 @@ dm.wo.com.cn
 ! 网易云游戏相关部分广告相关
 ||sigma-prodbehavior-a29.proxima.nie.netease.com^
 ||sigma-flerken-a29.proxima.nie.netease.com^
-! 萤石云部分日志
-||log.ys7.com^
 ! 疑似向日葵远程控制日志
 ||sl-log.oray.net^
 ! 未知作用，屏蔽后不影响使用
