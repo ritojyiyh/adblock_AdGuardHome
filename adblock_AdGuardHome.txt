@@ -557,7 +557,6 @@ dm.wo.com.cn
 ||mssdk.volces.com^
 ||gecko.snssdk.com.bytedns1.com^
 ||gecko.snssdk.com.w.cdngslb.com^
-||l7-online-self-max-v6.s.dsa.cdnbuild.net^
 ||stream.snssdk.com^
 ||stream.snssdk.com.bytedns1.com^
 ||stream.snssdk.com.w.cdngslb.com^
