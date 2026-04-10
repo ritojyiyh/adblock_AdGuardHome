@@ -231,12 +231,12 @@ pushservice.10010.com^
 ||sms.ads.heytapmobi.com^
 ! 真我Realme手机便签相关
 ||note-skin.coloros.com^
-! 讯飞输入法(屏蔽输入法联网)
-||xfinfr.com^
-||voicecloud.cn^
-! 讯飞语音相关
-||xf-yun.com^
-||voicecloud.cn^
+! 讯飞输入法(屏蔽输入法联网)-已取消屏蔽
+! ||xfinfr.com^
+! ||voicecloud.cn^
+! 讯飞语音相关-已取消屏蔽
+! ||xf-yun.com^
+! ||voicecloud.cn^
 ! 数据分析ABtest openspeech-讯飞语音相关
 ||openspeech.cn^
 ! 高德地图定位相关
