@@ -186,12 +186,12 @@ pushservice.10010.com^
 ||stg-data.ads.heytapmobi.com^
 ! 真我Realme手机拨号和短信广告
 ||sms.ads.heytapmobi.com^
-! 讯飞输入法(屏蔽输入法联网)
-||xfinfr.com^
-||voicecloud.cn^
-! 讯飞语音相关
-||xf-yun.com^
-||voicecloud.cn^
+! 讯飞输入法(屏蔽输入法联网)-已取消屏蔽
+! ||xfinfr.com^
+! ||voicecloud.cn^
+! 讯飞语音相关-已取消屏蔽
+! ||xf-yun.com^
+! ||voicecloud.cn^
 ! 数据分析ABtest openspeech-讯飞语音相关
 ||openspeech.cn^
 ! 新浪微博-微博广告相关
