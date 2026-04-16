@@ -27,7 +27,7 @@
 @@||smtcdns.net^
 ! 腾讯云CDN全站加速服务公用域名
 ! cdntips.net
-! #QQ音乐个人主页歌手榜
+! QQ音乐个人主页歌手榜
 @@||i.y.qq.com^
 ! UC网盘相关
 @@||www.yun.cn^
@@ -53,3 +53,5 @@
 @@||bookmark.115.com^
 ! B站MCDN-使用部分视频下载器需要解除屏蔽
 @@||*.mcdn.bilivideo.cn^
+! 蜂鸟众包骑士圈
+@@||knight-oc.rajax-inc.com^
