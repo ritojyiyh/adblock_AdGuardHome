@@ -191,6 +191,11 @@ pushservice.10010.com^
 ||icosa.coloros.com^
 ! 真我Realme手机营销广告相关域名
 ||ads.heytapmobi.com^
+! 真我Realme可疑域名
+||appassets.androidplatform.net^
+||uc-client-cn.heytapmobi.com^
+! 真我Realme系统更新
+||component-ota-cn.allawntech.com^
 ! 真我Realme遥测数据
 ||mdp-appconf-cn.heytapdl.com^
 ||appconf.heytapdownload.com^
