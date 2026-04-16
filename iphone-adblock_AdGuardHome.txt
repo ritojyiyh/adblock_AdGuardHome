@@ -9,6 +9,7 @@
 ||csjplatform.com^
 ! 广告-快手磁力引擎
 ||e.kuaishou.com^
+||e.kuaishou.cn^
 ! 广告-UC头条
 ||uczzd.cn^
 ||applog.uc.cn^
@@ -29,10 +30,15 @@
 ! 广告-腾讯广点通
 ||e.qq.com^
 ! 广告-腾讯优量汇
+||ugdtimg.com^
+||gdtimg.com^
 ||gdt.qq.com^
 ||qzs.gdtimg.com^
 ||c.isdspeed.qq.com^
 ||api.anythinktech.com^
+||adsmind.ugdtimg.com^
+! 广告-腾讯优量汇-三小图网页类广告
+||pgdt.ugdtimg.com^
 ! 广告-聚胜万合MediaV
 ||mediav.com^
 ! 广告-塔酷信息TopOn
@@ -82,6 +88,8 @@
 ||android.rqd.qq.com^
 ||androidrqd.iot.wechatpay.cn^
 ||iosrqd.iot.wechatpay.cn^
+||rmonitor.qq.com^
+||repo1.maven.org^
 ! 腾讯灯塔-用户行为分析隐私上报
 ||mdt.qq.com^
 ||trace.qq.com^
@@ -90,6 +98,9 @@
 ||flurry.com^
 ! 如果要用QQ超级萌宠签到需要解除这条
 ! oth.eve.mdt.qq.com
+! 火山引擎-应用性能监控全链路版
+||apmplus.volces.com^
+||artifact.bytedance.com^
 ! 今日头条Datarangers-用户行为分析隐私上报、火山引擎
 ||tobsnssdk.com^
 ||volcengineapi.com^
@@ -129,6 +140,7 @@
 ! MobTech袤博(前上海游昆)-用户行为分析隐私上报
 ||mob.com^
 ||dutils.com^
+||zztfly.com^
 ! 百度统计Crab-用户行为分析隐私上报
 ||crab.baidu.com^
 ||nsclick.baidu.com^
@@ -180,6 +192,12 @@ pushservice.10010.com^
 ||icosa.coloros.com^
 ! 真我Realme手机营销广告相关域名
 ||ads.heytapmobi.com^
+! 真我Realme遥测数据
+||mdp-appconf-cn.heytapdl.com^
+! 真我Realme手机插SIM卡后通信————
+||short.sms.heytapmobi.com^
+! 插入SIM卡后会连接这个域名
+||ifind.realmemobile.com^
 ! 魅族手机推送SDK
 ! norma-external-collect.meizu.com
 ! 真我Realme手机安装软件界面广告
@@ -249,17 +267,14 @@ pushservice.10010.com^
 ||ssdkauth.hpplay.cn^
 ! 蜻蜓FM
 ! z.qingting.fm
-
 ||abtest.z.qingting.fm^
 ||list.z.qingting.fm^
 ! 广告-济南维快AdHubSDK
 ||hubcloud.com.cn^
 ! 广告-AdScope
 ||beizi.biz^
-! 360相关
-! 如果不用360的任何东西直接屏蔽掉360的一级域名
-||360.cn^
-||360mon.cn^
+! 百度移动广告联盟
+||mobads.baidu.com^
 ! QQ音乐广告
 ||ad.tencentmusic.com^
 ||adstats.tencentmusic.com^
@@ -269,7 +284,6 @@ pushservice.10010.com^
 ||tmeadbak.y.qq.com^
 ||ugcup.music.qq.com^
 ||ipv6.kg.qq.co^
-
 ! 版本更新
 ||c6.y.qq.com^
 ||base.music.qq.com^
@@ -481,7 +495,6 @@ dm.wo.com.cn
 ||shop-image.lianliantao.cn^
 ||mobads-logs.baidu.com^
 ||mobads-logs.e.shifen.com^
-||mobads.baidu.com^
 ||ad.zijieapi.com^
 ||webcast-open.douyin.com^
 ||tnc3-aliec2.zijieapi.com^
@@ -776,8 +789,6 @@ dm.wo.com.cn
 ! 119.167.136.55 cdnfhnfile.115.com
 ! 指定115网盘上传服务器IP
 ! 157.255.170.205 fhnfile.oss-cn-shenzhen.aliyuncs.com
-! 指定魅族手机官网刷机包IP
-! 116.177.239.35 firmware-res.flyme.com
 ! 疑似123云盘检查更新相关
 ||metrics-collector.xaidc.com^
 ! 123云盘检查更新下载
@@ -838,7 +849,6 @@ dm.wo.com.cn
 ||applog-perf.uc.cn^
 ! 酷安广告github.com/privacy-protection-tools/anti-AD/issues/989
 ||aa.birdgesdk.com^
-||apmplus.volces.com^
 ||cn-api.anythinktech.com^
 ||datk.anythinktech.com^
 ||dm-hl.toutiao.com^
@@ -894,3 +904,45 @@ dm.wo.com.cn
 ||update.hicloud.com^
 ! 疑似华为软件内置dns
 ||httpdns.platform.dbankcloud.com^
+! 微博httpdns
+||dns.weibo.cn^
+! Sigmob移动广告
+||sigmob.cn^
+! 美约广告
+! edimob.com^
+! 腾讯视频去开屏广告
+||ad.tencentvideo.com^
+||adstats.tencentvideo.com^
+||info6.video.qq.com^
+! 广告-未分类
+||v66-ad.ndcjl.com^
+||p3-be-pack-sign.pglstatp-toutiao.com^
+||v5-be-pack.pglstatp-toutiao.com^
+||sf6-be-pack.pglstatp-toutiao.com^
+||sf6-fe-tos.pglstatp-toutiao.com^
+||ug.pangolin-dsp-toutiao.com^
+||p26-sign.douyinpic.com^
+||v4-lm.adukwai.com^
+||yumao.puata.info^
+||uyunad.com^
+||s.1rtb.net^
+||ssp.1rtb.com^
+||cdn.1rtb.com^
+||tr.byteurl.cn^
+! 酷安广告b-网友分享
+||pangolin-sdk-toutiao.com^
+||frontier-toutiao.snssdk.com^
+||pangolin-sdk-toutiao-b.com^
+||ads5-normal-lf.zijieapi.com^
+||pglstatp-toutiao^
+! 萤石视频广告
+||ad-material.ys7.com^
+! 淘宝-饿了么相关
+||adashx.ut.ele.me^
+||acs.m.taobao.com^
+! 淘宝去广告-测试
+||adashx.m.taobao.com^
+||ossgw.alicdn.com^
+||ems.youku.com^
+||hudong.alicdn.com^
+||ut.taobao.com^
