@@ -1409,3 +1409,5 @@ dm.wo.com.cn
 ||ems.youku.com^
 ||hudong.alicdn.com^
 ||ut.taobao.com^
+! 讯飞AI营销/讯飞广告
+||bjimp.voiceads.cn^
