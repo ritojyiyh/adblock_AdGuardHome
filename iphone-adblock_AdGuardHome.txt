@@ -229,6 +229,16 @@ pushservice.10010.com^
 ||bcsp2p.n.shifen.com^
 ! 百度广告-竞价推广
 ||ada.baidu.com^
+! 百度HTTPDNS服务
+||httpdns.baidu.com^
+||httpsdns.baidu.com^
+||httpdns.bcelive.com^
+||httpdns.baidubce.com^
+||httpdns.n.shifen.com^
+! 爱奇艺HTTPDNS服务
+||dns.iqiyi.com^
+||doh.iqiyi.com^
+||dns.qiyipic.iqiyi.com^
 ! 乐播投屏广告-可能和网盘类APP的视频播放的投屏有关-待测试
 ! hpplay.cn
 ||rps.hpplay.cn^
