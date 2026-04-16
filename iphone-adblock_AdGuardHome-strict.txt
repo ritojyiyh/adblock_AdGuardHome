@@ -53,3 +53,5 @@
 @@||bookmark.115.com^
 ! B站MCDN-使用部分视频下载器需要解除屏蔽
 @@||*.mcdn.bilivideo.cn^
+! 蜂鸟众包骑士圈
+@@||knight-oc.rajax-inc.com^
