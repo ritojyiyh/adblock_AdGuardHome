@@ -22,26 +22,35 @@
 @@||lf-cdn-tos.bytescm.com^
 @@||multiapp-cache-weboffice.wpscdn.cn^
 @@||imgs2.58moto.com^
-! 豆包Ai
-@@||www.doubao.com^
 ! 微信相关
 @@||mp.weixin.qq.com^
 ! B站cdn相关域名，屏蔽后无法获取CDN地址
 @@||smtcdns.net^
 ! 腾讯云CDN全站加速服务公用域名
 ! cdntips.net
-! 未整理名称
+! QQ音乐个人主页歌手榜
+@@||i.y.qq.com^
+! UC网盘相关
+@@||www.yun.cn^
+! 豆包相关
+@@||www.doubao.com^
 @@||mcs.doubao.com^
 @@||mon.zijieapi.com^
 @@||opt.doubao.com^
 @@||mcs.zijieapi.com^
+! 文心一言相关
 @@||yiyan-plugins.bj.bcebos.com^
-@@||*.mcdn.bilivideo.cn^
+! 爱奇艺相关
 @@||www.iqiyi.com^
 @@||data6.video.iqiyi.com^
 @@||time.video.iqiyi.com^
 @@||stc.iqiyipic.com^
 @@||static.iqiyi.com^
+@@||security.iqiyi.com^
+! 酷喵/优酷相关
 @@||valipl10.cp31.ott.cibntv.net^
 @@||valipl-bkp1.cp31.ott.cibntv.net^
+! 115网盘相关
 @@||bookmark.115.com^
+! B站MCDN-使用部分视频下载器需要解除屏蔽
+@@||*.mcdn.bilivideo.cn^
