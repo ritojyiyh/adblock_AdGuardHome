@@ -1212,12 +1212,13 @@ dm.wo.com.cn
 ! @@||168.6.168.192.in-addr.arpa^
 ||7k7k.com^
 ! 视频网站、直播网站PCDN
-! 哔哩哔哩Mcdn
+! 哔哩哔哩B站Mcdn
 ||mcdn.bilivideo.cn^
 ||mcdn.bilivideo.com^
 ||szbdyd.com^
 ||*pcdn*.biliapi.net^
 ||cn-*.bilivideo.com
+||*.h2.smtcdns.net^
 ! 虎牙直播p2p
 ||p2p.huya.com^
 ||hw.p2p.huya.com^
