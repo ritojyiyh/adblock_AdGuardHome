@@ -1062,7 +1062,7 @@ dm.wo.com.cn
 ||download-a.ucloud.com.cn^
 ||update.todesk.com.ucloud.com.cn^
 ! httpcanary小黄鸟抓包(破解版的可以直接屏蔽)
-||reqable.com^
+! ||reqable.com^
 ! 摩托范
 ||adkwai.com^
 ||x.jd.com^
