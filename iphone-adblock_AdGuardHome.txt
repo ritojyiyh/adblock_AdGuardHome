@@ -1,8 +1,32 @@
+! HTTPDNS拦截器精简版，已去除其他规则包含的域名，原地址：https://github.com/QingRex/LoonKissSurge和https://surge.qingr.moe/
+||yyapp-httpdns.gslb.yy.com^
+||union-httpdns.gslb.yy.com^
+||yuyin-httpdns.gslb.yy.com^
+||httpdns-v6.gslb.yy.com^
+||dns2.q2cdn.com^
+||resolver.msg.xiaomi.net^
+||ucdc.upaas.quark.cn^
+||httpdns.cctv.com^
+||httpdns-browser.platform.dbankcloud.cn^
+||doh.ptqy.gitv.tv^
+||httpdns.ocloud.heytapmobi.com^
+||apidns-js.kwd.inkuai.com^
+||httpdnsmultiapi.meituan.com^
+||httpdnsmultiapivip.meituan.com^
+||httpdns.zybang.com^
+||httpdns.calorietech.com^
+||hd.xiaojukeji.com^
+||serveraddr.service.kugou.com^
+! 分割线————————————————————————————————————————————————————————————————————————————————————
 ! 这个版本解除了定位和真我手机相关的
 ! 广告-TradPlus
 ||tradplusad.com^
 ! 亿帆广告https://www.yfanads.cn/privacy.html
 ||yfanads.com^
+! 南瓜SDK-广告
+||sogaha.cn^
+! MedPro-广告
+||medproad.com^
 ! 广告-字节跳动火山引擎
 ||volceapplog.com^
 ! 广告-抖音巨量引擎
@@ -1072,6 +1096,7 @@ dm.wo.com.cn
 ! 摩托范
 ||adkwai.com^
 ||x.jd.com^
+||dsp-x.jd.com^
 ||xlog.jd.com^
 ||janapi.jd.com^
 ||360os.com^
@@ -1421,3 +1446,7 @@ dm.wo.com.cn
 ! 水印相机广告相关
 ! content.rconfig.qq.com为配置远程下发
 ||content.rconfig.qq.com
+! 彩云天气
+||abyss.cyapi.cn^
+||ad.cyapi.cn^
+||gather.colorfulclouds.net^
