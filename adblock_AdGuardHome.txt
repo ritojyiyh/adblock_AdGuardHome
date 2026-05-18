@@ -1,5 +1,7 @@
 ! 广告-TradPlus
 ||tradplusad.com^
+! 亿帆广告https://www.yfanads.cn/privacy.html
+||yfanads.com^
 ! 广告-字节跳动火山引擎
 ||volceapplog.com^
 ! 广告-抖音巨量引擎
@@ -110,6 +112,10 @@
 ||snowflake.qq.com^
 ||wup.imtt.qq.com^
 ||digibites.nl^
+! 腾讯分析
+||analy.qq.com^
+! 腾讯数据分析上报-A/B测试、广告效果统计、埋点上报
+||data.ab.qq.com^
 ! 微软App Center-用户行为分析隐私上报
 ||in.appcenter.ms^
 ||codepush.appcenter.ms^
@@ -1464,3 +1470,7 @@ dm.wo.com.cn
 ||ut.taobao.com^
 ! 讯飞AI营销/讯飞广告
 ||bjimp.voiceads.cn^
+! 水印相机广告相关
+! content.rconfig.qq.com为配置远程下发
+||content.rconfig.qq.com
+
