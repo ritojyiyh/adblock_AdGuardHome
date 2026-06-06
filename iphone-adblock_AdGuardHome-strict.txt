@@ -55,3 +55,13 @@
 @@||*.mcdn.bilivideo.cn^
 ! 蜂鸟众包骑士圈
 @@||knight-oc.rajax-inc.com^
+! 爱奇艺图片显示
+@@||pic1.iqiyipic.com^
+@@||pic2.iqiyipic.com^
+@@||pic3.iqiyipic.com^
+@@||pic4.iqiyipic.com^
+@@||pic5.iqiyipic.com^
+@@||pic6.iqiyipic.com^
+@@||pic7.iqiyipic.com^
+@@||pic8.iqiyipic.com^
+@@||pic9.iqiyipic.com^
