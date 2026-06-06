@@ -56,6 +56,7 @@
 ! 蜂鸟众包骑士圈
 @@||knight-oc.rajax-inc.com^
 ! 爱奇艺图片显示
+@@||pic0.iqiyipic.com^
 @@||pic1.iqiyipic.com^
 @@||pic2.iqiyipic.com^
 @@||pic3.iqiyipic.com^
